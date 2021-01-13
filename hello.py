@@ -1,3 +1,3 @@
-# Prints string "Hello World" to terminal 
+# Prints string "Hello World" to console 
 # type hello.py in terminal to run
 print("Hello World")
